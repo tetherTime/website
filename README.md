@@ -5,3 +5,4 @@ This is a sample website made as part of [*Learn Enough Git To Be Dangerous*](ht
 After finishing *Learn Enough Git To Be Dangerus*, you'll know enough Git to be 
 *dangerous*. back up data, share your work with others, and collaborate with 
 programmers and other users of Git.
+[official Git documentation](https://git-scm.com/).
