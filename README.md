@@ -6,3 +6,4 @@ After finishing *Learn Enough Git To Be Dangerus*, you'll know enough Git to be
 *dangerous*. back up data, share your work with others, and collaborate with 
 programmers and other users of Git.
 [official Git documentation](https://git-scm.com/).
+[or you can google it](https://www.google.com/search?rlz=1C5CHFA_enUS731US731&q=git+documentation&spell=1&sa=X&ved=0ahUKEwiL3quIhtrWAhWmsVQKHZJyAAkQvwUIJSgA&biw=1279&bih=552).
